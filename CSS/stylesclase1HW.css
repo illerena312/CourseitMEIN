@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+}
+article {
+    background-color: white;
+    text-align: left;
+    width: 1200px;
+    margin: auto;
+    margin-top: 200px;
+   
+}
+
+h1#artTitle{
+    color: rgb(59, 59, 59);
+    font-size: 5.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.1em;
+}
+
+p#bajada{
+    color: grey;
+    line-height: 1.5rem;
+    font-size: 1.2em;
+    margin-top: 0.2em;
+    width: 600px;
+}
+
+p#artBody{
+    color: rgb(90, 88, 88);
+    line-height: 1.8rem;
+    font-size: 1.2em;
+    margin-top: 1.8em;
+    margin-bottom: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}    
+span{
+    color: grey;
+    line-height: 1.5rem;
+    font-size: 1.2em;
+
+    }
+button#readOn{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button#readLater{
+    background-color: white;
+    color: red;
+    width: 200px;
+    height: 50px;
+    border-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
